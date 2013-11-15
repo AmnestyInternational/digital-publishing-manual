@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'AI Canada Digital Communications Manual'
+project = u'Amnesty International Canada Digital Communications Manual'
 copyright = u'2013, Jackson Couse'
 
 # The version info for the project you're documenting, acts as replacement for

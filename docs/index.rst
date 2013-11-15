@@ -1,5 +1,5 @@
 ==========================================================
-Amnesty International Canada Digital Communications Manual
+Digital Communications Manual
 ==========================================================
 
 .. toctree::
