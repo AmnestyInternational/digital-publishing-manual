@@ -27,10 +27,10 @@ First steps
 
 Congratulations, you have started the first step: this manual!
 
-* :doc:`strategy` provides a background on how we use digital communications tactics to achieve our strategic goals;
-* :doc:`coordination` outlines how we make decisions and organize our daily workflow;
-* :doc:`implementation` details the work of executing editorial and technical aspects;
-* :doc:`systems` covers the core technologies and business rules of the digital publishing system.
+* :doc:`strategy`  provides a background on how we use digital communications tactics to achieve our strategic goals;
+* :doc:`coordination`  outlines how we make decisions and organize our daily workflow;
+* :doc:`implementation`  details the work of executing editorial and technical aspects;
+* :doc:`systems`  covers the core technologies and business rules of the digital publishing system.
 
 Getting comfortable with the publishing system starts with getting to know your co-workers. DigitalComs can be a fast-paced place with little room for error (aside: we accidentally announced Nelson Mandela's death, oops!) at times. The Strategist, Coordinator, and Editorial and Technical Workers need to work in close unison, so you'll need to build up some trust.
 
