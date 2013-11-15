@@ -2,11 +2,6 @@
 Getting Started
 ==================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
 Introduction to Digital Publishing
 ----------------------------------
 

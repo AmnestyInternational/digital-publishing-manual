@@ -2,12 +2,6 @@
 Digital Publication Strategy and Tactics
 =============================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
 Human rights framework
 ----------------------
 

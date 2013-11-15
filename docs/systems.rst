@@ -2,12 +2,6 @@
 Digital Communications Systems
 =======================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
 The Catalogue
 ---------------------------------------
 

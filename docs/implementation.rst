@@ -2,11 +2,6 @@
 Implementing the Digital Publishing Work-flow
 ==================================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
 Overview
 -----------------------
 

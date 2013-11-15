@@ -2,13 +2,6 @@
 Coordinating Digital Publication
 =============================================
 
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
 This section describes how we create and organize content. Coordination is mainly about communicating and enforcing business practices, and is the responsibility of the Coordinator.
 
 Roles
