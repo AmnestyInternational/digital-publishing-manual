@@ -7,7 +7,7 @@ Amnesty International Canada Digital Publishing Manual
 
 This  manual outlines the work process and practices of the digital communications department of Amnesty International Canada.
 
-##$ Why document?
+### Why document?
 
 Documentation is crucial! Not everyone can afford to spend hours every day cultivating digital literacy. Documentation helps bridge the knowledge gap for non-techincal people. 
 
