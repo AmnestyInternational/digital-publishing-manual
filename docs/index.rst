@@ -47,9 +47,3 @@ Sincerely,
 ex-Digital Production Specialist, Amnesty International Canada
 
 November 15th, 2013
-
-
-.. note:: This repository is open source and is available on `GitHub`_. 
-    We would love contributions.
-
-.. _GitHub: https://github.com/amnestyinternational/digitalcoms
