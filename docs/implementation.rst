@@ -134,19 +134,12 @@ a strong secret key = (something you have) + (something you know)
 Documentation
 ^^^^^^^^^^^^^
 
-Good documentation is essential for editorial and technical work. Commit a regular portion of your work time to completing documentation.
+Documentation is crucial! Not everyone can afford to spend hours every day cultivating digital literacy. Documentation helps bridge the gap. Commit a regular portion of your work time to completing documentation.
 
-Whenever possible, use Sphynx and (if appropriate) ReadTheDocs. If you are collaborating with non-technical people on documentation, use a version-controlled system like Draftin.com or Google Documents to collaborate. 
+This documentation was created using the `Sphinx <http://sphinx-doc.org/index.html>`_ tool to provide structure. The code is hosted on `Github <https://github.com/AmnestyInternational/digital-publishing-manual>`_ and you are reading the output on https://readthedocs.org
 
-Documentation culture is an uphill battle at most organizations. Amnesty International is in the process of a cultural change towards understanding and appreciating the need for documentation. Consult Write The Docs for instructions on how to get started with Sphinx and bring about documentation culture. 
+See `Write the Docs <http://docs.writethedocs.org/en/latest/>`_ for help getting started with documentation.
 
+If you are collaborating with non-technical people on documentation, use a version-controlled system like Draftin.com or Google Documents to collaborate. 
 
-Naming
-^^^^^^^^^^^^^^
-
-Naming things is one of the hardest things to do in computer science, and it gets especially tricky when many different people and machines are involved. Properly naming things tells the publisher what the parts of your story are and where they belong. Much of the work of the rest of our organization occurs outside of relational databases. A document-oriented File System Infobase Management method is recommended.
-
-Assets 
-^^^^^^^^^^^^^^
-
-Assets are the components of a story. These pieces include text documents, metadata, images, and so on. File formats defines allowable file types for stories.
+Documentation culture is an uphill battle at most organizations. Amnesty International is in the process of a cultural change towards understanding and appreciating the need for documentation. 

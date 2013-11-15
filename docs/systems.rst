@@ -188,24 +188,24 @@ The following llist outlines all of the areas of publication activity. Some area
 
 * Regional Support
 
-* hubs
-* regional meetings
-* offices
-
-   * Vancouver
-   * Toronto
-   * Halifax
+   * hubs
+   * regional meetings
+   * offices
+   
+      * Vancouver
+      * Toronto
+      * Halifax
 
 * Intermediate Structures (Outreach)
 
-* fieldworkers
-* partner networks
-* coalitions
-* outreach initiatives
-* theme/issue coordinators
-* country coordinators
-* coordinator training and projects
-* coordination council meetings
+   * fieldworkers
+   * partner networks
+   * coalitions
+   * outreach initiatives
+   * theme/issue coordinators
+   * country coordinators
+   * coordinator training and projects
+   * coordination council meetings
 
 
 Content
@@ -245,8 +245,7 @@ Nonetheless, for quick reference, here are our colours:
 * Bright Blue: C100 0 0 0 / #00aeef
 * Bright Blue 50%: 50 0 0 12 / #63badd
 * Bright Blue 20%: 20 0 0 6 / #bbdced
-* Dark Red: 0 100 85 30 / #b10e23 - Don't tint red, it doesn't mix well
-with our colours.
+* Dark Red: 0 100 85 30 / #b10e23 - Don't tint red, it doesn't mix well with our colours.
 
 Typeface
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -256,8 +255,3 @@ Typeface
 * Main headings should be in the bold weight of Trade Gothic Condensed
 * Regular weight should be used for sub-headings and body text
 * When Trade Gothic is not available, use Arial regular and bold
-
-Documentation
-----------------------------
-
-
