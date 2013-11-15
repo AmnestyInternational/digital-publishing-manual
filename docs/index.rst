@@ -2,6 +2,15 @@
 Amnesty International Canada Digital Communications Manual
 ==========================================================
 
+.. toctree::
+   :maxdepth: 2
+
+   starting
+   strategy
+   coordination
+   implementation
+   systems
+
 Introduction
 ------------
 
@@ -38,26 +47,7 @@ ex-Digital Production Specialist, Amnesty International Canada
 November 15th, 2013
 
 
-Contents
---------
-
-.. toctree::
-   :maxdepth: 2
-
-   starting
-   strategy
-   coordination
-   implementation
-   systems
-
 .. note:: This repository is open source and is available on `GitHub`_. 
     We would love contributions.
 
 .. _GitHub: https://github.com/amnestyinternational/digitalcoms
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
