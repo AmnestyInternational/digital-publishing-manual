@@ -43,7 +43,9 @@ We welcome contributions from anyone. Please contact us.
 Sincerely,
 
 `Jackson Couse <http://jacksoncouse.com>`_
+
 ex-Digital Production Specialist, Amnesty International Canada
+
 November 15th, 2013
 
 
