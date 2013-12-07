@@ -76,14 +76,14 @@ The following llist outlines all of the areas of publication activity. Some area
 
 * Member Services
 
-* point of contact
+  * point of contact
+  
+     * phone
+     * members@amnesty.ca
+     * message box on amnesty.ca
+     * call centre
 
-   * phone
-   * members@amnesty.ca
-   * message box on amnesty.ca
-   * call centre
-
-* member-activism liason
+  * member-activism liason
 
 * Resource Development (Donations)
 
@@ -125,76 +125,76 @@ The following llist outlines all of the areas of publication activity. Some area
 
 * Action Strategies
 
-* major campaigns
+  * major campaigns
+  
+     * corporate accountability
+     * MENA
+     * arms control
+     * Indigenous people of Colombia
+     * Sexual and Reproductive Rights
+     * "countering terror with justice" (sic)
+  
+    * crisis response
+    * missions
 
-   * corporate accountability
-   * MENA
-   * arms control
-   * Indigenous people of Colombia
-   * Sexual and Reproductive Rights
-   * "countering terror with justice" (sic)
-
-* crisis response
-* missions
-
-* Human Rights Agenda
-   
-   * urgent action
-   * Americas program
-   * representation
-   * indigenous rights
-   * refuguees and migrants
-   * women's rights
-   * security and human rights
-
-* Grassroots Activism
-
-* initiatives (GO team)
-* groups
-
-   * youth groups
-   * community groups
-   * action cirles
-
-* networks
-
-   * urgent action
-   * medical
-   * youth
-   * online
-
-      * Twitter feeds
-      * Facebook groups
-      * Flickr
-      * Pinterest
-      * Tumblr
-      * Youtube
-      * discussion forums
-      * mailing lists
-
-* member activism
-
-   * initiatives
-   * events
-   * groups
-
-* events
-
-   * human rights college
-   * lectures, presentations, discussions
-   * film fests
-   * concerts
-   * writeathon
-
-* Regional Support
-
-   * hubs
-   * regional meetings
-   * offices
-   
-      * Vancouver
-      * Toronto
-      * Halifax
+  * Human Rights Agenda
+     
+     * urgent action
+     * Americas program
+     * representation
+     * indigenous rights
+     * refuguees and migrants
+     * women's rights
+     * security and human rights
+  
+  * Grassroots Activism
+  
+  * initiatives (GO team)
+  * groups
+  
+     * youth groups
+     * community groups
+     * action cirles
+  
+  * networks
+  
+     * urgent action
+     * medical
+     * youth
+     * online
+  
+        * Twitter feeds
+        * Facebook groups
+        * Flickr
+        * Pinterest
+        * Tumblr
+        * Youtube
+        * discussion forums
+        * mailing lists
+  
+  * member activism
+  
+     * initiatives
+     * events
+     * groups
+  
+  * events
+  
+     * human rights college
+     * lectures, presentations, discussions
+     * film fests
+     * concerts
+     * writeathon
+  
+  * Regional Support
+  
+     * hubs
+     * regional meetings
+     * offices
+     
+        * Vancouver
+        * Toronto
+        * Halifax
 
 * Intermediate Structures (Outreach)
 
